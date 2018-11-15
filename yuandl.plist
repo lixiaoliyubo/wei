@@ -19,21 +19,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.sssyk.com/data/attachment/xxm.png</string>
+					<string>http://yuandl.net/app/120x120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>x108.x205.x190.x118</string>
+				<string>jjyl.ipa</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>App Subtitle</string>
 				<key>title</key>
-				<string>久久娱乐</string>
+				<string>彩乐娃</string>
 			</dict>
 		</dict>
 	</array>
