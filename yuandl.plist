@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://yuandl.net/app/jjyl.ipa</string>
+					<string>https://github.com/lixiaoliyubo/wei/blob/master/yuandl.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>彩乐娃</string>
+				<string>久久娱乐</string>
 			</dict>
 		</dict>
 	</array>
